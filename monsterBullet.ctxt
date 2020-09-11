@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=monsterBullet
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ invaderBullet\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ invaderBullet\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=
+comment2.target=void\ move()
+comment2.text=\r\n\ Moves\ the\ monster\ bullet\ downwards\ until\ it\ hits\ Mario\r\n\ or\ until\ it\ reaches\ the\ end\ of\ the\ world.\r\n
+comment3.params=
+comment3.target=java.lang.String\ bottomEdge()
+comment3.text=\r\n\ Checks\ to\ see\ if\ the\ monster's\ bullet\ has\ \r\n\ reached\ the\ bottom\ of\ the\ screen.\ If\ it\ has,\r\n\ it\ removes\ it\ and\ adds\ an\ explosion\ animation.\r\n
+comment4.params=
+comment4.target=void\ hitMario()
+comment4.text=\r\n\ This\ method\ will\ check\ to\ see\ if\ the\ monster\ bullet\ hits\ Mario\ or\ not,\r\n\ if\ it\ does\ it\ Mario,\ he\ and\ the\ monster\ bullet\ will\ be\ removed\r\n\ then\ the\ "GAME\ OVER"\ text\ will\ appear.\r\n
+numComments=5

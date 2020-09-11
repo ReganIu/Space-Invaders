@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Fireball
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Fireball\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ Fireball\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=
+comment2.target=void\ move()
+comment2.text=\r\n\ Moves\ the\ fireball\ upwards\ until\ it\ hits\ a\ monster\r\n\ or\ until\ it\ reaches\ the\ end\ of\ the\ world.\r\n
+comment3.params=
+comment3.target=java.lang.String\ topEdge()
+comment3.text=\r\n\ Checks\ to\ see\ if\ the\ fireball\ has\ hit\ the\ edge\r\n\ of\ the\ world\ or\ not.\ Returns\ null\ if\ it\ has\ not\r\n\ reached\ the\ edge.\r\n
+comment4.params=
+comment4.target=void\ hitObject()
+comment4.text=\r\n\ If\ Mario's\ fireball\ hits\ this\ the\ Blue\ Shell,\ then\ it\r\n\ will\ explode\ and\ then\ both\ the\ fireball\ and\r\n\ blue\ shell\ will\ disappear.\r\n
+numComments=5
